@@ -4,8 +4,8 @@
   <img src="https://img.shields.io/badge/By-HB%20HRIDOY%20X-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Termux-All%20Tools-green?style=for-the-badge&logo=android" />
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/github/stars/HB-HRIDOY-X/Bangla-Termux-All-Tools?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/HB-HRIDOY-X/Bangla-Termux-All-Tools?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/hbx9/Bangla-Termux-All-Tools?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/hbx9/Bangla-Termux-All-Tools?style=for-the-badge" />
 </p>
 
 <p align="center">
